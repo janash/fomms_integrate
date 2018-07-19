@@ -21,7 +21,7 @@ setup(
     packages=['fomms_integrate', "fomms_integrate.tests"],
     install_requires=[
         'numpy',
-    ]
+    ],
 
     # Optional include package data to ship with your package
     # Comment out this line to prevent the files from being packaged with your software
