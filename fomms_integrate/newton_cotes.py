@@ -5,6 +5,7 @@ Integrate package for MolSSI workshop at FOMMS 2018
 Handles the primary functions
 """
 
+import numpy as np
 
 def canvas(with_attribution=True):
     """
